@@ -1,0 +1,107 @@
+{
+  "id": "1884083",
+  "name": "goupuzo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "182088",
+      "name": "商家",
+      "font_class": "shangjia",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "584251",
+      "name": "右箭头",
+      "font_class": "iconfontjiantou5",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "1002521",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "1127400",
+      "name": "右箭头",
+      "font_class": "rightarrow",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "2325917",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "6997493",
+      "name": "我 的",
+      "font_class": "wodedangxuan",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7944862",
+      "name": "发布",
+      "font_class": "fabu",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "10262050",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "10468194",
+      "name": "商城",
+      "font_class": "icon-test",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "10651911",
+      "name": "转发",
+      "font_class": "zhuanfa-",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "10715458",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "11747377",
+      "name": "五星",
+      "font_class": "wuxing",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "12754055",
+      "name": "播放",
+      "font_class": "bofang_huaban",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "13474459",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}

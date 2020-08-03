@@ -1,0 +1,34 @@
+#content{
+	margin-top: -15px;
+}
+#content ul li{
+	height: 50px;
+	position: relative;
+
+}
+#content ul li input{
+	width: 70%;
+	height: 35px;
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+input::placeholder{
+	font-size: 14px;
+	color: #ccc;
+	
+}
+#content ul li span{
+	font-size: 10px;
+	display: block;
+	position: absolute;
+	top: 17px;
+	right: 10px;
+	background-color: #BBBBBB;
+	width: 65px;
+	line-height: 25px;
+	border-radius: 10px;
+	text-align: center;
+	color: white;
+}
+

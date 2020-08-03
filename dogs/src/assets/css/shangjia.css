@@ -1,0 +1,84 @@
+
+			
+			.list li{
+				width: 33%;
+				float: left;
+				background-color: white;
+				padding-left: 20px;
+				
+			}
+			.list li a{
+				font-size: 10px;
+			}
+			.mui-table-view-cell.mui-active {
+			    background-color: white;
+			}
+			.huoyue{
+				background-color: white;
+				margin-top: 45px;
+				color: #ccc;
+				font-size: 11px;
+				height: 30px;
+				line-height: 30px;
+				
+			}
+		#head{
+			padding: 0;
+		}
+		#huoyue li{
+			margin-left: 20px;
+		}
+		#huoyue li img{
+			width: 60px;
+			height: 60px;
+		}
+		ul{
+			list-style: none;
+		}
+		.sj li {
+			float: left;
+			
+		}
+		.sj li:last-child{
+			float: right;
+			
+		}
+		.sj li img {
+			padding-top: 5px;
+			margin-right: 10px;
+			width: 50px;
+			
+		}
+		.sj li p{
+			font-size: 11px;
+			height: 20px;
+			
+		}
+		.sj li p span{
+			color: red;
+		}
+		.p1{
+			
+			background-color: goldenrod;
+			margin-left: 10px;
+		}
+		.mui-table-view:after{height:0 ;}	
+		.mui-table-view::before{height: 0;}
+		.alsj li img{
+			width: 100px;
+			height: 110px;
+		}
+		.alsj li p{
+			padding-top:10px ;
+		}
+		.alsj li p span:nth-of-type(2){
+			color: red;
+		}
+		.icon {
+		  width: 1em;
+		  height: 1em;
+		  vertical-align: -0.15em;
+		  fill: currentColor;
+		  overflow: hidden;
+		}
+		

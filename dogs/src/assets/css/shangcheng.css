@@ -1,0 +1,76 @@
+.head{
+	background-color: white;
+	padding-top: 0;
+}
+.top{
+	margin-top: 45px;
+	}
+.top img{
+	width: 100%;
+}
+.top ul li img{
+	width: 40px;
+}
+.icon {
+	  width: 1em;
+	  height: 1em;
+	  vertical-align: -0.15em;
+	  fill: currentColor;
+	  overflow: hidden;
+	}
+ul{
+	list-style: none;
+}
+.mui-bar-nav ~ .mui-content {
+    padding-top: 0px;
+}
+.band ul{
+	display: flex;
+	justify-content: space-between;
+	margin: 0;
+	height: 40px;
+	background-color: white;
+}
+.band ul li{
+	line-height: 40px;
+}
+.band ul li:nth-child(2){
+	font-size: 13px;
+	color: red;
+	
+}
+#band{
+	background-color:white;
+	height: 250px;
+}
+#band li img{
+	width: 60px;
+	height: 60px;
+}
+#mainfood{
+padding: 0;
+height: 605px;
+background-color: white;
+}
+#mainfood li img{
+	width: 100%;
+}
+#mainfood li p:nth-of-type(1){
+	color: #000000;
+	height: 35px;
+}
+#mainfood li p:nth-of-type(2){
+	font-size: 12px;
+	height: 20px;
+}
+#mainfood li p:nth-of-type(3) span:nth-child(1){
+	color: red;
+}
+#mainfood li p:nth-of-type(3) span:nth-child(2){
+	color: red;
+	border: 1px solid red;
+	font-size: 11px;
+}
+#mainfood li p:nth-of-type(3) span:nth-child(3){
+	margin-left: 30px;
+}
